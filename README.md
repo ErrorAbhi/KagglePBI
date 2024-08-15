@@ -11,9 +11,6 @@
 4. [Key Insights](##Key-Insights)
 5. [Expected Outcomes](##Expected-Outcomes)
 6. [Conclusion](##Conclusion)
-7. [Testing & Iteration](#testing--iteration)
-8. [Deployment & Sharing](#deployment--sharing)
-9. [Maintenance & Updates](#maintenance--updates)
 
 ## Objective:
 The objective of this project is to analyze and visualize key trends and metrics within the Kaggle community. By examining datasets, competitions, and author contributions, we aim to provide insights into the growth and impact of data science activities on the platform.
