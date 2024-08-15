@@ -1,7 +1,7 @@
 # Kaggle Dataset Analysis
 
 ## Preview of the Dashboard
-![Kaggle Dashboard](KagglePBI\kaggle.gif)
+![KagglePBI\kaggle.gif](https://github.com/ErrorAbhi/KagglePBI/blob/main/kaggle.gif))
 
 ## Objective:
 The objective of this project is to analyze and visualize key trends and metrics within the Kaggle community. By examining datasets, competitions, and author contributions, we aim to provide insights into the growth and impact of data science activities on the platform.
