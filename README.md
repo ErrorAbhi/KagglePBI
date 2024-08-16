@@ -33,25 +33,21 @@ Cleanse and prepare the data by:
 
 This ensures the accuracy and reliability of your analysis.
 
-### 3. Modeling
-Create relationships between data tables to enable:
-- Cross-filtering
-- Complex analyses
 
 This step is critical for creating a robust and interconnected data model.
 
-### 4. Dashboard Design
+### 3. Dashboard Design
 Plan the dashboard layout by:
 - Deciding which visualizations best represent the data insights
 - Ensuring that the dashboard is intuitive and user-friendly
 
-### 5. Visualization Creation
+### 4. Visualization Creation
 Create the following visualizations to represent the data insights:
 - **Bar Charts**: For trends and comparisons
 - **Line Graphs**: For changes over time
 - **Numerical Indicators**: For key metrics
 
-### 6. Filter Implementation
+### 5. Filter Implementation
 Add filters to allow users to customize their view based on:
 - Year
 - Month
@@ -59,13 +55,13 @@ Add filters to allow users to customize their view based on:
 - Size type
 - File type
 
-### 7. Testing & Iteration
+### 6. Testing & Iteration
 Test the dashboard’s functionality to ensure it works as intended. Iterate based on user feedback to enhance usability and accuracy.
 
-### 8. Deployment & Sharing
+### 7. Deployment & Sharing
 Publish the dashboard to the Power BI service, making it accessible to the intended audience.
 
-### 9. Maintenance & Updates
+### 8. Maintenance & Updates
 Regularly update the dataset and make necessary adjustments to visualizations to keep the dashboard up-to-date and relevant.
 
 ## Key Insights
